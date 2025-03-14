@@ -1,3 +1,5 @@
+// Ascending Order
+
 let arr = [11, 5, 8, 1, 4, 9, 3];
 for(i=1; i<arr.length; i++)
 {
